@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamim Qureshi</h1>
+<h1 align="center">Hi 👋, I'm Shamim </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimqureshi&label=Profile%20views&color=0e75b6&style=flat" alt="shamimqureshi" /> </p>
