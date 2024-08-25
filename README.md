@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **DSA and Web Devlopment**
 
-- 📫 How to reach me **shamimq18@gmail.com**
+- 💬 Ask me about **Web Devlopment**
 
-- 📄 Know about my experiences [Learning BCA At London Managment Academy](Learning BCA At London Managment Academy)
+- 📫 How to reach me **shamimq18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
